@@ -53,7 +53,7 @@ Google_Play_Store_EDA/
 | VISUALIZATION LAYER                   |  
 |  - Interactive Dashboards (Plotly)    |  
 |  - Static Plots (Seaborn & Matplotlib)|  
-|  - Scatter, Bar, Boxplots   |  
+|  - Scatter, Bar, Boxplots             |  
 +---------------------------------------+  
 
 ```
