@@ -30,7 +30,7 @@ Google_Play_Store_EDA/
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ EDA Architecture
 
 ```text
 +----------------------+  
@@ -92,7 +92,7 @@ Understanding app trends and user preferences can guide developers, marketers, a
 
 ### 1. Clone Repository
 ```bash
-git clone <repo_url>
+git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
 cd Google_Play_Store_EDA
 ```
 
@@ -157,5 +157,5 @@ jupyter notebook
 ## 👨‍💻 Author
 **Tejas Jadhav**  
 
-- GitHub: [@tejas-jadhav](https://github.com/tejas-jadhav)  
-- LinkedIn: [Tejas Jadhav](https://www.linkedin.com/in/tejas-jadhav)
+- GitHub: [@tejas-jadhav](https://github.com/TejasMJ)  
+- LinkedIn: [Tejas Jadhav](https://www.linkedin.com/in/tejas-m-jadhav/)
