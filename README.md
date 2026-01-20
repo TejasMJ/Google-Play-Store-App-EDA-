@@ -157,5 +157,5 @@ jupyter notebook
 ## 👨‍💻 Author
 **Tejas Jadhav**  
 
-- GitHub: [@tejas-jadhav](https://github.com/tejas-jadhav)  
-- LinkedIn: [Tejas Jadhav](https://www.linkedin.com/in/tejas-jadhav)
+- GitHub: [@tejas-jadhav](https://github.com/TejasMJ)  
+- LinkedIn: [Tejas Jadhav](https://www.linkedin.com/in/tejas-m-jadhav/)
