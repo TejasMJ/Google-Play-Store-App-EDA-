@@ -30,7 +30,7 @@ Google_Play_Store_EDA/
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ EDA Architecture
 
 ```text
 +----------------------+  
