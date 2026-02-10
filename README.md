@@ -93,7 +93,7 @@ Understanding app trends and user preferences can guide developers, marketers, a
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
-cd Google_Play_Store_EDA
+cd Google-Play-Store-App-EDA-
 ```
 
 ### 2. Create Virtual Environment
